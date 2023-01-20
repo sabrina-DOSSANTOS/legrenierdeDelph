@@ -1,0 +1,1 @@
+2023/01/20 14:46:04 [error] 7236#9568: *1780 WSARecv() failed (10054: FormatMessage() error:(15100)) while reading response header from upstream, client: 127.0.0.1, server: , request: "GET /wp-admin/post-new.php?post_type=page HTTP/1.1", upstream: "fastcgi://127.0.0.1:10008", host: "localhost:10010", referrer: "http://localhost:10010/wp-admin/edit.php?post_type=page"
